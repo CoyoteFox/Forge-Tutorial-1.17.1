@@ -1,4 +1,4 @@
-package com.coyotecodes.tutorialmod;
+package com.coyotefox.tutorialmod;
 
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
